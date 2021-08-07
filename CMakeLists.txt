@@ -3,14 +3,14 @@ cmake_minimum_required(VERSION 3.5.0)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-project(vectorclass1 VERSION 1)
+project(vectorclass VERSION 1)
 
 INCLUDE(GNUInstallDirs)
 
 # Files
 #--------------------------------------
 set(SRC_FILES
-        instrset.h	
+    instrset.h	
 	instrset_detect.cpp
 	vectorclass.h
 	vectorf128.h
