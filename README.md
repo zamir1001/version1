@@ -10,3 +10,4 @@ including Intel C++ compiler version 19, and older versions of Microsoft, Gnu, a
 
 [Download manual](https://github.com/vectorclass/manual/raw/master/vcl_manual.pdf)
 
+[Original repository by Agner Fog](https://github.com/vectorclass/version1)
